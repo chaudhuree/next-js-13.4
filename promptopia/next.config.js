@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     experimental: {
-        appDir                          : true,
+        appDir: true,
         serverComponentsExternalPackages: ["mongoose"],
+        forceSwcTransforms: true,
     },
-    images      : {
+    images: {
         domains: ['lh3.googleusercontent.com'],
     },
     webpack(config) {
