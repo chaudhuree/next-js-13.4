@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bd25b8-3e58-4f63-bd40-fbf5875e6116" name="Changes" comment="authenticatiion setup done with mongodb database and also checked functionality">
-      <change beforePath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iamamia/src/components/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../iamamia/src/components/footer/Footer.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +119,7 @@
       <workItem from="1692101909418" duration="387000" />
       <workItem from="1692194231455" duration="439000" />
       <workItem from="1692194704028" duration="42000" />
+      <workItem from="1692257339994" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="homepage for root directory and layout.jsx basic setup done. Now next task is to create navigation bar">
       <option name="closed" value="true" />
